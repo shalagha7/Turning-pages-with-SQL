@@ -7,7 +7,7 @@ Sure! Here's an engaging and interesting README description for your project on 
 
 Welcome to the **Turning Pages with SQL** project! This repository showcases an insightful analysis of the Goodreads Books dataset, providing a deep dive into the literary world using SQL. Discover how authors, publishers, and readers interact and influence the journey of a book from creation to reception. Let's embark on this literary adventure together! 🌟
 
-## 📖 Project Overview
+## 📖 Project Overview 
 
 This project aims to explore various aspects of the literary world, including:
 - **Publisher Diversity and Quality**: Examining which publishers have the most diverse language offerings and how ratings vary across languages.
